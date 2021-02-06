@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Seja Bem vindo/a ao meu perfil!<br>
+ 
+<p id="SobreMe">Prazer , sou Pablo De oliveira Ferreira</p>
 <!--
 **pabloliverfe-stack/pabloliverfe-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+![pabloliverfe-stack's github stats](https://github-readme-stats.vercel.app/api?username=pabloliverfe-stack&show_icons=true&theme=vision-friendly-dark)
