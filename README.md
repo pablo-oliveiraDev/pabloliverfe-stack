@@ -10,9 +10,9 @@
 <summary> <b> SOBRE MIM </b> <i>(Clique aqui para expandir)</i> </summary>
  
 ### Prazer , sou [*Pablo De Oliveira Ferreira*](https://github.com/pabloliverfe-stack) , atualmente estou cursando análise e desenvolvimento de sistemas na Estacio<br> e tbm fazendo um curso C# orientado a objetos do prof.[Nelio Alves](https://github.com/acenelio), cujo o qual diga-se de passagem recomendo a todos.<br>Já cursei Tecnologias de Informação,designer grafico,Manutenção de computadores e atualmente atuo na area de manutenção de impressoras há mais de 3 anos.<br>Desde que quando interagi no excel com uso do "SE" comecei a ter fascínio pela programação. Tanto pela forma de usar quanto ao desafio que ela tráz para soluções de problemas.<br>Já estou na area de informática há quase 10 anos ,sempre atualizando e buscando novos conhecimentos tanto em plataformas de ensino e tbm em cursos de atualização. 
-</details><br><br>
+</details><br>
 
----
+
 
 ### Meus interesses:
 
